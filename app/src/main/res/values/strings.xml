@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RuiXin</string>
+    <string name="location_recv">[%1$s location]</string>
+    <string name="location_prefix">[my location]</string>
+    <string name="picture">[Picture]</string>
+    <string name="video">[Video]</string>
+    <string name="file">[file]</string>
+    <string name="voice_prefix">[Voice]</string>
+    <string name="voice_call">[Voice call]</string>
+    <string name="video_call">[Video call]</string>
+    <string name="dynamic_expression">[Dynamic expression]</string>
+    <string name="Has_agreed_to_your_friend_request">接受邀请</string>
+    <string name="agree">接受</string>
+    <string name="Request_to_add_you_as_a_friend">请求添加你为好友</string>
+    <string name="Apply_to_the_group_of">申请加入群：</string>
+    <string name="Has_agreed_to">已同意</string>
+    <string name="Has_refused_to">已拒绝</string>
+    <string name="refuse">拒绝</string>
+    <string name="invite_join_group">邀请加入群：</string>
+    <string name="accept_join_group">同意加入群</string>
+    <string name="refuse_join_group">拒绝加入群</string>
+    <string name="Are_agree_with">正在同意...</string>
+    <string name="Agree_with_failure"><![CDATA[同意失败:<]]></string>
+    <string name="Are_refuse_with">正在拒绝</string>
+    <string name="Refuse_with_failure">拒绝失败</string>
+</resources>
